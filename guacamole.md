@@ -2,7 +2,7 @@
 
 - avocado
 - onions
-- lemon
+- lime
 - salt
 
 
