@@ -3,7 +3,7 @@
 - avocado
 - onions
 - lime
-- salt
+- pepper
 
 
 
